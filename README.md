@@ -1,7 +1,7 @@
 Summary
 =======
 
-This repo contains source code to [Theme Documentation for Yoolk Instant Website](http://yoolk.github.io/liquid-documentation/).
+This repo contains source code to [REST API Documentation for SnapyShop](http://snapyshop.github.io/api-documentation/).
 
 
 ## Installation
@@ -14,9 +14,9 @@ Run it locally
 
     $ jekyll serve --watch
 
-Then, go to your browser with this url, [http://localhost:4000/liquid-documentation](http://localhost:4000/liquid-documentation).
+Then, go to your browser with this url, [http://localhost:4000/api-documentation](http://localhost:4000/api-documentation).
 
 
 ## Deployment
 
-  Do a push commit to `gh-pages` branch. Wait for a few seconds, then test it on [yoolk.github.io/liquid-documentation/](yoolk.github.io/liquid-documentation/).
+  Do a push commit to `gh-pages` branch. Wait for a few seconds, then test it on [snapyshop.github.io/api-documentation/](snapyshop.github.io/api-documentation/).
