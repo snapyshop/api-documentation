@@ -1,0 +1,13 @@
+# Site settings
+title: SnapyShop REST API Documentation
+email: chamnapchhorn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  SnapyShop REST API Documentation for Android and iOS mobile application
+url: 'https://snapyshop.github.io'
+baseurl: '/api-documentation'
+v1_baseurl: '/api-documentation/v1'
+twitter_username: snapyshop
+github_username:  snapyshop
+
+# Build settings
+markdown: kramdown
