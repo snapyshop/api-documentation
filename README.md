@@ -19,4 +19,4 @@ Then, go to your browser with this url, [http://localhost:4000/api-documentation
 
 ## Deployment
 
-  Do a push commit to `gh-pages` branch. Wait for a few seconds, then test it on [snapyshop.github.io/api-documentation/](snapyshop.github.io/api-documentation/).
+  Do a push commit to `gh-pages` branch. Wait for a few seconds, then test it on [snapyshop.github.io/api-documentation/](http://snapyshop.github.io/api-documentation/).
