@@ -63,3 +63,63 @@
     margin-top: 40px;
   }
 }
+
+// panel
+.codehilite {
+  border-radius: 3px;
+  border: 1px solid $panel-border-color;
+  margin-bottom: 30px;
+}
+
+.codehilite-header {
+  margin: 0;
+  border-bottom: 1px solid $panel-border-color;
+  padding-left: 10px;
+  padding-top: 1px;
+  background-color: $panel-bg-header;
+  h3 {
+    margin: 0;
+    color: $text-color;
+  }
+}
+
+.codehilite-body {
+  .highlight {
+    margin: 0;
+    padding: 0;
+  }
+  pre {
+    background: white;
+    overflow-x: auto;
+    border: none;
+    margin: 0;
+    padding: 15px;
+  }
+  .language-django,
+  .language-html,
+  .language-ruby {
+    background: white;
+    font-size: 14px;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 15px;
+    li {
+      margin: 5px 0;
+      a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.tags {
+  border-top: 1px dashed #ccc;
+  margin: 48px 0 16px;
+  padding-top: 47px;
+}
+
+hr {
+  margin: 0px !important;
+}
