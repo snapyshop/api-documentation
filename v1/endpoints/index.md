@@ -8,8 +8,6 @@ Once you've registered your client it's easy to start requesting data from Snapy
 
 Every request made to SnapyShop REST API must provide authentication. API users must send with params `access_token` as query string.
 
-`access_token` will be expired in a week.
-
 <div class="codehilite">
   <div class="codehilite-body">
 {% highlight django%}{% raw %}
